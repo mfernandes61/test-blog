@@ -1,0 +1,9 @@
+# Site settings
+title: Blogging with Jekyll & GH-Pages!
+author:
+  name: Mark Fernandes
+  email: your-email@domain.com
+description: "Site using Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
